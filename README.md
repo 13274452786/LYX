@@ -1,0 +1,2 @@
+# LYX
+Some personal projects.
